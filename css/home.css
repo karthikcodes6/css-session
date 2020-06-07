@@ -1,0 +1,32 @@
+body {
+  background-color: aquamarine;
+  /* background-image: url(../images/avatar5.jpg);
+  background-repeat: no-repeat; */
+}
+
+h1 {
+}
+
+/* .heading-2 {
+  color: blue;
+} */
+
+#heading-3 {
+  color: red;
+  background-color: royalblue;
+}
+
+span {
+  background-color: pink;
+}
+
+h5 {
+  border: pink 1px solid;
+  border-radius: 60px;
+  padding: 30px;
+  margin: 1rem; /* 16 px */
+}
+
+.section {
+  display: block;
+}
